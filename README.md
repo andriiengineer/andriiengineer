@@ -1,14 +1,25 @@
 # 👋 Hi there, I'm Andrii!
 
-I'm a Senior Test Automation (SDET) specializing in crafting robust automation test frameworks from scratch.
+### **Senior Test Automation Engineer (SDET)**
+I specialize in building scalable, high-performance automation frameworks from the ground up. Whether it's web, backend, or desktop, I focus on creating extensible architectures that deliver fast and reliable feedback.
 
-My expertise lies in automating tests using C#/.NET, JavaScript/TypeScript, Selenium, Playwright, and WebDriverIO. I have a solid background in web, backend, desktop testing.
+---
 
-Additionally, I am skilled in leading teams, conducting interviews, and mentoring new hires.
+### 🛠 **Technical Arsenal**
+* **Languages:** C#/.NET, TypeScript
+* **Web Automation:** Playwright, Selenium, WebDriverIO
+* **Infrastructure:** CI/CD integration, Logging, and Custom Reporting
+* **Testing Realms:** Web, Backend (API), Desktop, Mobile
 
-- 📬 **Email:** andrii.code@gmail.com
+### 🚀 **Leadership & Mentoring**
+Beyond code, I have a track record of leading QA teams, architecting testing strategies, and mentoring engineers to reach their full potential.
+
+---
+
+📫 **Let’s build something stable:**
+
+- **Email:** andrii.code@gmail.com
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrii-samoilenko-code/)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/andriiengineer)
 
 
 
