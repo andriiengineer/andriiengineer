@@ -20,7 +20,7 @@ Beyond code, I have a track record of leading QA teams, architecting testing str
 
 - **Email:** andrii.code@gmail.com
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrii-samoilenko-code/)
-
+- [AQAPRO.COM](https://aqapro.com/)
 
 
 
